@@ -1,1 +1,3 @@
-function main(args) { return args; }
+function main(args) {
+  return args;
+}
